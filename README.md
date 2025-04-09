@@ -1,9 +1,5 @@
-## jyaai
-
 ### About Me
 
-+ 🎓 from Shanghai AI Lab. i am AI & Algorithm engineer
++ 🎓 Shanghai University
 
-+ ⚡ Image processing algorithm engineer
-
-+ 🧱 Amateur developer
++ ⚡ Image processing
